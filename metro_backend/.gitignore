@@ -1,0 +1,6 @@
+lib/
+bin/
+image.jpeg
+*.cfg
+.Python
+__pycache__
